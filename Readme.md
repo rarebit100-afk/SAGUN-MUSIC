@@ -4,9 +4,9 @@ Railway is a fast, free & no-sleep cloud platform. Best replacement for Heroku.
 
 ---
 
-### 🚀 Deploy to Railway (One-Click)
+### 🚀 Deploy to HERKU (One-Click)
 
-<a href="https://railway.app/new/template?template=https://github.com/CertifiedCoders/AnnieXMusic">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/yjee4247-code/badnam">
   <img src="https://img.shields.io/badge/Deploy%20to-Railway-black?style=for-the-badge&logo=railway&logoColor=white"/>
 </a>
 
