@@ -1,4 +1,4 @@
-## ☁️ Railway Deployment (Heroku Alternative)
+## ☁️ HERUKU Deployment (Heroku Alternative)
 
 Railway is a fast, free & no-sleep cloud platform. Best replacement for Heroku.
 
@@ -6,13 +6,13 @@ Railway is a fast, free & no-sleep cloud platform. Best replacement for Heroku.
 
 ### 🚀 Deploy to HERKU (One-Click)
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/yjee4247-code/badnam">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/rarebit100-afk/SAGUN-MUSIC">
   <img src="https://img.shields.io/badge/Deploy%20to-Railway-black?style=for-the-badge&logo=railway&logoColor=white"/>
 </a>
 
 ---
 
-### 🛠 Manual Railway Setup
+### 🛠 Manual HERUKU Setup
 
 #### Step 1: Create Project
 - Go to https://railway.app
@@ -25,7 +25,7 @@ Railway is a fast, free & no-sleep cloud platform. Best replacement for Heroku.
 
 #### Step 2: Add Environment Variables
 
-Go to **Railway → Variables** and add:
+Go to **HEROKU → Variables** and add:
 
 ```env
 API_ID=
@@ -37,7 +37,3 @@ STRING_SESSION=
 MONGO_DB_URI=
 COOKIE_URL=
 
-DEEP_API=
-API_KEY=
-API_URL=
-VIDEO_API_URL=
